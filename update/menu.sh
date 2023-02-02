@@ -41,7 +41,7 @@ echo -e "  $blu☠$BLUE  Public IP  $NC : $MYIP"
 echo -e "  $blu☠$BLUE  Domain  $NC    : $domain"
 echo -e "  $blu☠$BLUE  Total RAM $NC  : ${totalram}MB"
 echo -e "  $blu☠$BLUE  Time$NC        : $( date -d "0 days" +"%d-%m-%Y | %X" )"
-echo -e "  $blu☠$BLUE  Version  $NC   : Singgel Port"
+echo -e "  $blu☠$BLUE  Version  $NC   : XNXX
 echo -e "${GREEN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "\E[44;1;97m              ⇱ MENU SCRIPT ⇲                   \E[0m"
 echo -e "${GREEN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
